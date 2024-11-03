@@ -40,8 +40,7 @@ I managed to start my coding journey with my [Replit Account](https://replit.com
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Display Date and Time | Python Project for Beginners (02)](https://ytcards.demolab.com/?id=VL6XrY9yO2M&title=Display+Date+and+Time+%7C+Python+Project+for+Beginners+%2802%29&lang=en&timestamp=1708870682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Display Date and Time | Python Project for Beginners (02)")](https://www.youtube.com/watch?v=VL6XrY9yO2M)
-[![Simple Calculator | Python Project for Beginners (01)](https://ytcards.demolab.com/?id=iMEsfgrDt7o&title=Simple+Calculator+%7C+Python+Project+for+Beginners+%2801%29&lang=en&timestamp=1708803238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Simple Calculator | Python Project for Beginners (01)")](https://www.youtube.com/watch?v=iMEsfgrDt7o)
+** Under Development **
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nokky070?sub_confirmation=1)
