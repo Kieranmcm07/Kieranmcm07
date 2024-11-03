@@ -9,17 +9,17 @@ A normal highschool kid where he works at his hardest to become an Software Engi
 
 I love creating programs as im planning to create tech content in the future, mostly on learning web developement and a simple little bit of JavaScript. **But** I also talk about other topics than just coding like games. I advice you follow me to stay up to date with my content.
 
-I managed to start my coding journey with my [Replit Account](https://replit.com/@Nokky07) and by watching first first Python tutorial, by [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw). In which from this I have advanced my Python coding skills. Looking foward to helping lots of people with my knowledge.
+I managed to start my coding journey with my [Replit Account](https://replit.com/@KieranMc07) and by watching first first Python tutorial, by [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw). In which from this I have advanced my Python coding skills. Looking foward to helping lots of people with my knowledge.
 
 <p align="left">
       <a href="https://www.youtube.com/@nokky070?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@nokky070">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/Nokky07?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nokky07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Nokky07?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nokky07?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/Kieranmcm07?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kieranmcm07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Kieranmcm07?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kieranmcm07?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -50,13 +50,13 @@ I managed to start my coding journey with my [Replit Account](https://replit.com
 
 ### 📊 Stats
 
-![Nokky07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokky07&show_icons=true&theme=radical)
+![Nokky07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=radical)
 
 
 #
 
 <details>
- <summary><h3>👨‍💻 Nokky07's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Kieran's Coding Journey</h3></summary>
    At eight years old, most kids were obsessed with cartoons. Me? I was hooked on the vibrant world of Scratch. Building wasn't with Legos anymore; it was with colorful code blocks. I remember the thrill of creating my first game – a frantic race against the clock where you dodged obstacles and collected stars. Each successful level solidified the magic: with code, I could turn imagination into reality.
 
 By eleven, the web's allure became too strong to resist. HTML and CSS became my new playgrounds. I vividly remember struggling for weeks to center a giant image on my first website, a neon-green homage to my favorite band. The frustration was real, but the triumphant "Aha!" moment when I cracked the code was pure magic.  Suddenly, the internet wasn't just a place to visit, it was a place I could build.
