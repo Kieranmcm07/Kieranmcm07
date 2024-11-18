@@ -12,9 +12,9 @@ I am the type of person who enjoys resolving challenges, developing solutions, a
 Some of the things I am willing to offer include gameplay, technical talk, and coding games. In the future, I hope to encourage people by creating images based on technology but not limited to web development.
 
 <p align="left">
-      <a href="https://www.youtube.com/@nokky070?sub_confirmation=1">
+      <a href="https://www.youtube.com/@KieranMc070?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@nokky070">
+      <a href="https://www.youtube.com/@KieranMc070">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Kieranmcm07?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kieranmcm07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -44,13 +44,13 @@ Some of the things I am willing to offer include gameplay, technical talk, and c
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nokky070?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@KieranMc070?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Nokky07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=radical)
+![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=radical)
 
 
 #
@@ -68,4 +68,4 @@ And now, the journey takes new turns and new routes. JavaScript is the rope that
 Visual Studio Code (VS Code) has accompanied me in this adventure. Starting from simple projects and debugging, and up to complex project management, VS Code kept pace with me. A couple of years ago, it still did not exist.
 
 [website]: https://google.com
-[youtube]: [https://youtube.com/nokky070](https://www.youtube.com/@nokky070)
+[youtube]: [https://youtube.com/KieranMc070](https://www.youtube.com/@KieranMc070)
