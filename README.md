@@ -5,11 +5,11 @@
 ---
 **`Software Development (Developer/Creator/Coding)`**
 
-A normal highschool kid where he works at his hardest to become an Software Engineer working with Python and starting to learn C. Great experiance with Python and HTML&CSS. Also more in the **Languages and Tools** below.
+A precise high school student who aims to be a Software Engineer with a focus on Python and more recently C. Familiar with Python, HTML, and CSS and moderate experience in JavaScript, PHP, and SQL. I am interested in programming and always wanting to know more about software engineering other than web programming languages.
 
-I love creating programs as im planning to create tech content in the future, mostly on learning web developement and a simple little bit of JavaScript. **But** I also talk about other topics than just coding like games. I advice you follow me to stay up to date with my content.
+I am the type of person who enjoys resolving challenges, developing solutions, and inventing useful devices. Although I made my beginnings in easy environments such as Replit and [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw), today I concentrate on more advanced areas of software engineering, such as algorithms, data structures, and systems programming.
 
-I managed to start my coding journey with Replit and by watching first first Python tutorial, by [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw). In which from this I have advanced my Python coding skills. Looking foward to helping lots of people with my knowledge.
+Some of the things I am willing to offer include gameplay, technical talk, and coding games. In the future, I hope to encourage people by creating images based on technology but not limited to web development.
 
 <p align="left">
       <a href="https://www.youtube.com/@nokky070?sub_confirmation=1">
