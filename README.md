@@ -39,6 +39,12 @@ Some of the things I am willing to offer include gameplay, technical talk, and c
 
 #
 
+### 📊 Stats
+
+![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark)
+
+#
+
 ### 📺 Latest YouTube Videos
 
 ### Under Maintenance
@@ -47,13 +53,6 @@ Some of the things I am willing to offer include gameplay, technical talk, and c
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@KieranMc070?sub_confirmation=1)
-
-#
-
-### 📊 Stats
-
-![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=radical)
-
 
 #
 
