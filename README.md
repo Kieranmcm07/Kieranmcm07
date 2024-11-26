@@ -1,6 +1,6 @@
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Kieran!" alt="Typing SVG" /></a>
-### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I am Kieran:
+### Hi there <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif?raw=true" width="30px">, I am Kieran:
 
 ---
 **`Software Development (Developer/Creator/Coding)`**
