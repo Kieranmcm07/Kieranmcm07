@@ -8,9 +8,9 @@
 
 **`Aspiring Software Engineer (Developer • Creator • Problem Solver)`**
 
-I'm a focused high school student with a passion for software development and a growing skill set in Python, C, and web technologies. My journey started with block-based programming and has evolved into a love for building solutions through code—whether it's crafting a game, automating a task, or solving real-world problems.
+I recently finished high school and have conditional offers to study Software Engineering or Development at university. My journey with software started with block-based programming and has evolved into a passion for building practical solutions through code—whether it’s developing games, automating tasks, or solving real-world problems.
 
-I'm curious about everything beyond basic web development—especially algorithms, data structures, and system-level programming. I thrive on challenges, and I'm always keen to deepen my understanding of software engineering.
+I’m diving deep into Python, C, and exploring system-level programming. While I used to focus a lot on web development, I’m now more curious about the backend and how things work under the hood—especially algorithms, data structures, and memory management. I'm all about solving problems and continuing to learn as much as I can.
 
 🧠 Self-taught. 🧩 Solution-driven. 🚀 Future-focused.
 
@@ -51,4 +51,3 @@ Today, I continue my journey with system-level programming and more advanced lan
 </details>
 
 ---
-
