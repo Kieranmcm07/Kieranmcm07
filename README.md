@@ -1,4 +1,4 @@
-# Kieran McMillan
+# Kieran Monagle
 ### Aspiring Software Engineer | Python Developer | Web Technologies Specialist
 
 📍 Scotland | ✉️ kieransworkstuff@gmail.com
