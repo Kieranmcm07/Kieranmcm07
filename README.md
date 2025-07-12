@@ -1,48 +1,52 @@
 <a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!;I'm+Kieran+McMonagle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Kieran!" alt="Typing SVG" />
 </a>
 
-# Hi, I'm Kieran McMonagle
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I'm Kieran
 
 ---
 
-**Aspiring Software Engineer | Passionate Problem Solver | Always Learning**
+**`Aspiring Software Engineer (Developer • Creator • Problem Solver)`**
 
-I recently finished high school and have a conditional offer to study Software Engineering at university. I started coding young with Scratch and quickly became hooked on the idea of building things from logic alone. Over time, I moved into real programming with **Python**, and later expanded into **HTML**, **CSS**, **JavaScript**, and some **PHP**/**MySQL**.
+I recently finished high school and have conditional offers to study Software Engineering or Development at university. My journey with software started with block-based programming and has evolved into a passion for building practical solutions through code—whether it’s developing games, automating tasks, or solving real-world problems.
 
-I enjoy creating projects that are practical, creative, and sometimes just for fun. Right now, I’m learning **Java** in preparation for university and getting more comfortable with backend logic, data structures, and algorithms.
+I’m diving deep into Python, C, and exploring system-level programming. While I used to focus a lot on web development, I’m now more curious about the backend and how things work under the hood—especially algorithms, data structures, and memory management. I'm all about solving problems and continuing to learn as much as I can.
 
----
-
-## 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" alt="CSS"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30" alt="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" alt="PHP"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" alt="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" alt="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" alt="GitHub"/>
-</p>
+🧠 Self-taught. 🧩 Solution-driven. 🚀 Future-focused.
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Languages & Tools
 
-![Kieran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark)
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="PHP" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<br /><br />
+
+---
+
+### 📊 GitHub Stats
+
+![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark)
 
 ---
 
 <details>
-  <summary><strong>📘 My Coding Journey</strong></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 
-I first got into coding at age 8 through Scratch. I loved how simple blocks could make something interactive. At 11, I built my first website with HTML and CSS—and spent hours figuring out how to center an image.
+At eight years old, while others were watching cartoons, I was captivated by Scratch. Those colourful code blocks felt like magic. I vividly remember my first game—racing against time to collect stars. It was simple, but it sparked something deeper.
 
-By 13, I had discovered Python and started building small tools and games. I explored JavaScript, PHP, and MySQL to expand my projects and understand how the web works.
+By age eleven, I ventured into web development with HTML and CSS. I spent hours figuring out how to centre a big image. When I finally did, it felt like wizardry. The web wasn't just a place to visit—it was a space I could build.
 
-Now, I’m learning Java and focusing more on backend development, systems thinking, and data handling. I enjoy tackling problems, learning how things work at a deeper level, and building software that actually solves something.
+At thirteen, I dived into Python. Gone were the colourful blocks—now it was pure text, logic, and structure. I loved it. I even built a cipher-solving app for kids who wanted to be secret agents.
+
+Today, I continue my journey with system-level programming and more advanced languages like C. I still love building games and technical tools, but now I focus on learning deeper concepts: memory management, data structures, and algorithms.
 
 </details>
 
