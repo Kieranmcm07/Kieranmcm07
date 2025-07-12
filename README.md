@@ -1,66 +1,65 @@
-# Kieran Monagle
-### Aspiring Software Engineer | Python Developer | Web Technologies Specialist
+<a align="center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Kieran!" alt="Typing SVG" />
+</a>
 
-📍 Scotland | ✉️ kieransworkstuff@gmail.com
+<h3 align="center">Aspiring Software Engineer | Python Developer | Problem Solver</h3>
 
----
-
-## 👨‍💻 Professional Summary
-
-Software engineering student with proficiency in Python, HTML, CSS, and foundational knowledge of JavaScript, PHP, and MySQL. Currently expanding expertise in Java and backend development. Passionate about building efficient solutions, optimizing system performance, and developing clean, maintainable code. Preparing for university studies in Software Engineering with a focus on algorithmic problem-solving and system architecture.
-
-**Core Competencies:**  
-• Full-stack web development (HTML5, CSS3, JavaScript)  
-• Python scripting & automation  
-• Database design (MySQL)  
-• Version control (Git/GitHub)  
-• Backend fundamentals (PHP)  
-• Currently mastering Java & data structures  
+<div align="center">
+  
+📍 Scotland | ✉️ kieransworkstuff@gmail.com | [Portfolio](https://github.com/Kieranmcm07?tab=repositories)
+  
+</div>
 
 ---
 
-## 🛠️ Technical Proficiencies
+### 🛠️ Technical Toolkit
 
-**Languages:**  
-Python • Java (Learning) • JavaScript • PHP • SQL  
+<div align="center">
+  
+**Proficient**  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 
-**Web Technologies:**  
-HTML5 • CSS3 • Responsive Design  
+**Developing**  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 
-**Tools & Platforms:**  
-Git • GitHub • MySQL • VS Code  
+**Familiar**  
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+
+</div>
 
 ---
 
-## 📈 GitHub Activity
+### 📊 Development Activity
 
-![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark&hide_border=true)
-
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark&hide_title=true)](https://github.com/Kieranmcm07)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranmcm07&layout=compact&theme=dark&hide_border=true)](https://github.com/Kieranmcm07)
 
----
-
-## 🚀 Current Focus
-- Preparing for university studies in Software Engineering
-- Developing Java proficiency for backend systems
-- Enhancing algorithm and data structure knowledge
-- Building portfolio projects with clean, documented code
-- Contributing to open-source Python projects
+</div>
 
 ---
 
-## 🎓 Education Journey
-- **Software Engineering Fundamentals:** Self-taught through project-based learning
-- **Upcoming:** Conditional offers for Software Engineering degrees
-- **Recent Upskilling:** 
-  - Java programming fundamentals
-  - Database design principles
-  - System architecture concepts
-  - Algorithm optimization techniques
+### 🚀 Current Focus
+- 🔍 Deepening Java knowledge for university preparation
+- ⚙️ Building backend systems with Python
+- 🧠 Mastering data structures and algorithms
+- � Developing full-stack projects
+- 🤝 Contributing to open-source communities
 
 ---
 
-## 📫 Contact
-- **Email:** kieransworkstuff@gmail.com
-- **Location:** Scotland, UK
-- **GitHub:** [github.com/Kieranmcm07](https://github.com/Kieranmcm07)
+<details>
+<summary><b>🧭 My Development Journey</b></summary>
+
+My coding journey began at age 8 with Scratch, where I discovered the thrill of creating interactive experiences. By 11, I was building websites with HTML/CSS, learning the power of visual design. At 13, Python became my tool of choice for solving complex problems and building practical applications like cipher tools.
+
+Today, I'm focused on software engineering fundamentals: system design, algorithms, and professional development practices. I'm preparing for university studies while expanding my skills in Java and backend development.
+
+</details>
