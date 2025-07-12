@@ -6,11 +6,11 @@
 
 ---
 
-**Aspiring Software Engineer | Curious Problem Solver | Practical Builder**
+**Aspiring Software Engineer | Passionate Problem Solver | Always Learning**
 
-I'm a self-taught developer based in Scotland, with conditional offers to study Software Engineering at university. I’ve always been drawn to how things work under the hood—whether it's in websites, systems, or everyday tools.
+I recently finished high school and have a conditional offer to study Software Engineering at university. I started coding young with Scratch and quickly became hooked on the idea of building things from logic alone. Over time, I moved into real programming with **Python**, and later expanded into **HTML**, **CSS**, **JavaScript**, and some **PHP**/**MySQL**.
 
-Over the years, I’ve built a solid foundation in Python, HTML, and CSS, and have been expanding into JavaScript, PHP, and MySQL. I enjoy designing projects that are both useful and technically interesting. Right now, I’m learning Java to prepare for university and exploring how to write cleaner, more efficient code.
+I enjoy creating projects that are practical, creative, and sometimes just for fun. Right now, I’m learning **Java** in preparation for university and getting more comfortable with backend logic, data structures, and algorithms.
 
 ---
 
@@ -29,20 +29,21 @@ Over the years, I’ve built a solid foundation in Python, HTML, and CSS, and ha
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Kieran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark)
 
 ---
 
 <details>
-  <summary><strong>📖 My Coding Journey</strong></summary>
+  <summary><strong>📘 My Coding Journey</strong></summary>
 
-My coding journey began with Scratch when I was 8 years old—those colorful blocks introduced me to the logic behind software. By 11, I was creating websites using HTML and CSS, and by 13, I’d moved on to Python.
+I first got into coding at age 8 through Scratch. I loved how simple blocks could make something interactive. At 11, I built my first website with HTML and CSS—and spent hours figuring out how to center an image.
 
-Since then, I’ve continued to learn and build, experimenting with web projects, small games, and backend tools. I’ve added JavaScript, PHP, and some MySQL to my skill set along the way. Recently, I’ve started learning Java to better understand object-oriented programming in preparation for university.
+By 13, I had discovered Python and started building small tools and games. I explored JavaScript, PHP, and MySQL to expand my projects and understand how the web works.
 
-I enjoy building things that solve problems or teach me something new—and I’m excited to keep growing as a developer.
+Now, I’m learning Java and focusing more on backend development, systems thinking, and data handling. I enjoy tackling problems, learning how things work at a deeper level, and building software that actually solves something.
+
 </details>
 
 ---
