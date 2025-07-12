@@ -17,6 +17,7 @@
 
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center; margin: 20px 0;">
+    
     <!-- Core Proficiencies -->
     <div style="grid-column: 1 / span 4; text-align: center; font-weight: bold; margin-bottom: 10px;">
       Core Proficiencies
@@ -53,6 +54,10 @@
       <span>MySQL</span>
     </div>
     
+    <!-- Empty cells for alignment -->
+    <div></div>
+    <div></div>
+    
     <!-- Familiar With -->
     <div style="grid-column: 1 / span 4; text-align: center; font-weight: bold; margin: 20px 0 10px;">
       Familiar With
@@ -70,6 +75,9 @@
       <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <span>GitHub</span>
     </div>
+    
+    <!-- Empty cell for alignment -->
+    <div></div>
   </div>
 </div>
 
@@ -86,27 +94,25 @@
 
 ### 🚀 Current Focus
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin: 20px 0;">
-  <div>🎓 Preparing for university</div>
-  <div>☕ Learning Java</div>
-  <div>🐍 Building Python tools</div>
-  <div>🧠 Data structures & algorithms</div>
-  <div style="grid-column: span 2; text-align: center;">🌐 Full-stack projects</div>
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; max-width: 600px; margin: 0 auto;">
+    <div>🎓 Preparing for university</div>
+    <div>☕ Learning Java</div>
+    <div>🐍 Building Python tools</div>
+    <div>🧠 Data structures & algorithms</div>
+    <div style="grid-column: span 2; text-align: center;">🌐 Full-stack projects</div>
+  </div>
 </div>
 
 ---
 
-<details>
-<summary><b>🧭 My Development Journey</b></summary>
-  
-<div align="center" style="margin-top: 15px; text-align: left;">
-  
+### 🧭 My Development Journey
+
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
 My coding journey began at age 8 with Scratch, discovering the thrill of creating interactive experiences. By 11, I was building websites with HTML/CSS, learning the power of visual design. At 13, Python became my tool of choice for solving complex problems and building practical applications.
 
 Today, I'm focused on software engineering fundamentals: system design, algorithms, and professional development practices. I'm preparing for university studies while expanding my skills in Java and backend development.
-
 </div>
-</details>
 
 ---
 
