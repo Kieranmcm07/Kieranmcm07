@@ -1,53 +1,48 @@
 <a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Kieran!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!;I'm+Kieran+McMonagle" alt="Typing SVG" />
 </a>
 
-### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I'm Kieran
+# Hi, I'm Kieran McMonagle
 
 ---
 
-**`Aspiring Software Engineer (Developer • Creator • Problem Solver)`**
+**Aspiring Software Engineer | Curious Problem Solver | Practical Builder**
 
-I recently finished high school and have conditional offers to study Software Engineering or Development at university. My journey with software started with block-based programming and has evolved into a passion for building practical solutions through code—whether it’s developing games, automating tasks, or solving real-world problems.
+I'm a self-taught developer based in Scotland, with conditional offers to study Software Engineering at university. I’ve always been drawn to how things work under the hood—whether it's in websites, systems, or everyday tools.
 
-I’m diving deep into Python, C, and exploring system-level programming. While I used to focus a lot on web development, I’m now more curious about the backend and how things work under the hood—especially algorithms, data structures, and memory management. I'm all about solving problems and continuing to learn as much as I can.
-
-🧠 Self-taught. 🧩 Solution-driven. 🚀 Future-focused.
+Over the years, I’ve built a solid foundation in Python, HTML, and CSS, and have been expanding into JavaScript, PHP, and MySQL. I enjoy designing projects that are both useful and technically interesting. Right now, I’m learning Java to prepare for university and exploring how to write cleaner, more efficient code.
 
 ---
 
-### 🧰 Languages & Tools
+## 💻 Languages & Tools
 
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="PHP" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<br /><br />
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" alt="CSS"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" alt="PHP"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" alt="MySQL"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" alt="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" alt="GitHub"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark)
+![Kieran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark)
 
 ---
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+  <summary><strong>📖 My Coding Journey</strong></summary>
 
-At eight years old, while others were watching cartoons, I was captivated by Scratch. Those colourful code blocks felt like magic. I vividly remember my first game—racing against time to collect stars. It was simple, but it sparked something deeper.
+My coding journey began with Scratch when I was 8 years old—those colorful blocks introduced me to the logic behind software. By 11, I was creating websites using HTML and CSS, and by 13, I’d moved on to Python.
 
-By age eleven, I ventured into web development with HTML and CSS. I spent hours figuring out how to centre a big image. When I finally did, it felt like wizardry. The web wasn't just a place to visit—it was a space I could build.
+Since then, I’ve continued to learn and build, experimenting with web projects, small games, and backend tools. I’ve added JavaScript, PHP, and some MySQL to my skill set along the way. Recently, I’ve started learning Java to better understand object-oriented programming in preparation for university.
 
-At thirteen, I dived into Python. Gone were the colourful blocks—now it was pure text, logic, and structure. I loved it. I even built a cipher-solving app for kids who wanted to be secret agents.
-
-Today, I continue my journey with system-level programming and more advanced languages like C. I still love building games and technical tools, but now I focus on learning deeper concepts: memory management, data structures, and algorithms.
-
+I enjoy building things that solve problems or teach me something new—and I’m excited to keep growing as a developer.
 </details>
 
 ---
