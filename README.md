@@ -1,53 +1,66 @@
-<a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Kieran!" alt="Typing SVG" />
-</a>
+# Kieran McMillan
+### Aspiring Software Engineer | Python Developer | Web Technologies Specialist
 
-### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I'm Kieran
-
----
-
-**`Aspiring Software Engineer (Developer • Creator • Problem Solver)`**
-
-I recently finished high school and have conditional offers to study Software Engineering or Development at university. My journey with software started with block-based programming and has evolved into a passion for building practical solutions through code—whether it’s developing games, automating tasks, or solving real-world problems.
-
-I’m diving deep into Python, C, and exploring system-level programming. While I used to focus a lot on web development, I’m now more curious about the backend and how things work under the hood—especially algorithms, data structures, and memory management. I'm all about solving problems and continuing to learn as much as I can.
-
-🧠 Self-taught. 🧩 Solution-driven. 🚀 Future-focused.
+📍 Scotland | ✉️ kieransworkstuff@gmail.com
 
 ---
 
-### 🧰 Languages & Tools
+## 👨‍💻 Professional Summary
 
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="PHP" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<br /><br />
+Software engineering student with proficiency in Python, HTML, CSS, and foundational knowledge of JavaScript, PHP, and MySQL. Currently expanding expertise in Java and backend development. Passionate about building efficient solutions, optimizing system performance, and developing clean, maintainable code. Preparing for university studies in Software Engineering with a focus on algorithmic problem-solving and system architecture.
 
----
-
-### 📊 GitHub Stats
-
-![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark)
+**Core Competencies:**  
+• Full-stack web development (HTML5, CSS3, JavaScript)  
+• Python scripting & automation  
+• Database design (MySQL)  
+• Version control (Git/GitHub)  
+• Backend fundamentals (PHP)  
+• Currently mastering Java & data structures  
 
 ---
 
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+## 🛠️ Technical Proficiencies
 
-At eight years old, while others were watching cartoons, I was captivated by Scratch. Those colourful code blocks felt like magic. I vividly remember my first game—racing against time to collect stars. It was simple, but it sparked something deeper.
+**Languages:**  
+Python • Java (Learning) • JavaScript • PHP • SQL  
 
-By age eleven, I ventured into web development with HTML and CSS. I spent hours figuring out how to centre a big image. When I finally did, it felt like wizardry. The web wasn't just a place to visit—it was a space I could build.
+**Web Technologies:**  
+HTML5 • CSS3 • Responsive Design  
 
-At thirteen, I dived into Python. Gone were the colourful blocks—now it was pure text, logic, and structure. I loved it. I even built a cipher-solving app for kids who wanted to be secret agents.
-
-Today, I continue my journey with system-level programming and more advanced languages like C. I still love building games and technical tools, but now I focus on learning deeper concepts: memory management, data structures, and algorithms.
-
-</details>
+**Tools & Platforms:**  
+Git • GitHub • MySQL • VS Code  
 
 ---
+
+## 📈 GitHub Activity
+
+![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark&hide_border=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranmcm07&layout=compact&theme=dark&hide_border=true)](https://github.com/Kieranmcm07)
+
+---
+
+## 🚀 Current Focus
+- Preparing for university studies in Software Engineering
+- Developing Java proficiency for backend systems
+- Enhancing algorithm and data structure knowledge
+- Building portfolio projects with clean, documented code
+- Contributing to open-source Python projects
+
+---
+
+## 🎓 Education Journey
+- **Software Engineering Fundamentals:** Self-taught through project-based learning
+- **Upcoming:** Conditional offers for Software Engineering degrees
+- **Recent Upskilling:** 
+  - Java programming fundamentals
+  - Database design principles
+  - System architecture concepts
+  - Algorithm optimization techniques
+
+---
+
+## 📫 Contact
+- **Email:** kieransworkstuff@gmail.com
+- **Location:** Scotland, UK
+- **GitHub:** [github.com/Kieranmcm07](https://github.com/Kieranmcm07)
