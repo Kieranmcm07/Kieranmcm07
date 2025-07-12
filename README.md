@@ -1,18 +1,20 @@
 <a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&pause=1000&color=4874c4&center=true&vCenter=true&width=500&lines=Welcome!%F0%9F%91%8B;I'm+Kieran+McMonagle!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=4874c4&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Kieran!" alt="Typing SVG" />
 </a>
 
+<h3 align="center">Aspiring Software Engineer | Python Developer | Problem Solver</h3>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
-  <h3>Aspiring Software Engineer | Python Developer | Problem Solver</h3>
-  📍 Scotland | ✉️ kieransworkstuff@gmail.com
+  
+📍 Scotland | ✉️ kieransworkstuff@gmail.com | [Portfolio](https://github.com/Kieranmcm07?tab=repositories)
+  
 </div>
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-<div align="center">
+<div align="left">
   
 #### Core Proficiencies
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
