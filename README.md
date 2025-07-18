@@ -8,7 +8,7 @@
     Aspiring Software Engineer | Python Developer | Problem Solver
   </h3>
   
-  📍 Scotland | ✉️ kieransworkstuff@gmail.com
+  📍 Scotland | 📨 kieransworkstuff@gmail.com
 </div>
 
 ---
