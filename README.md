@@ -105,5 +105,5 @@ Today, I'm focused on software engineering fundamentals: system design, algorith
 ---
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Kieranmcm07&color=blue&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Kieranmcm07&color=blue&style=flat" alt="Profile Visits!">
 </div>
