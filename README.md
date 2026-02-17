@@ -75,12 +75,12 @@
 <div align="center">
   <table>
     <tr>
-      <td>🎓 Preparing for university</td>
-      <td>☕ Learning Java</td>
+      <td>🎓 Studying at University</td>
+      <td>☕ Learning Java & Sigma16</td>
     </tr>
     <tr>
-      <td>🐍 Building Python tools</td>
-      <td>🧠 Data structures & algorithms</td>
+      <td>🐍 Building Python Tools</td>
+      <td>🧠 Data Structures & Algorithms</td>
     </tr>
     <tr>
       <td colspan="2" align="center">🌐 Full-stack projects</td>
