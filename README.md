@@ -5,7 +5,7 @@
   
   <h3> 
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
-    Aspiring Software Engineer | Python Developer | Problem Solver
+    Software Engineer | University Student | Developer
   </h3>
   
   📍 Scotland | 📨 kieransworkstuff@gmail.com
