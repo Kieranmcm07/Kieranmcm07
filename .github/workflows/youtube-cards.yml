@@ -1,5 +1,10 @@
 # This code updates the YouTube Cards info e.g. Views
 
+
+# This file is no longer in use but can be useful for someone else
+# what it does is that when you put your YT vids on github well this script
+# updates the view count on the video and other factors
+
 name: GitHub Readme YouTube Cards
 on:
   schedule:
