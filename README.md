@@ -32,8 +32,8 @@
       <br>CSS
     </td>
     <td align="center" width="120">
-      <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <br>JavaScript
+     <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <br>Linux
     </td>
   </tr>
   <tr>
@@ -62,12 +62,12 @@
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark&hide_title=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranmcm07&layout=compact&theme=dark&hide_border=true" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=dark&hide_title=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranmcm07&layout=compact&theme=dark&hide_border=true" /> <br>
+  <img src="https://streak-stats.demolab.com/?user=Kieranmcm07&theme=dark&hide_border=true">
+</p>
 
 ---
 
@@ -76,7 +76,7 @@
   <table>
     <tr>
       <td>🎓 Studying at University</td>
-      <td>☕ Learning Java & Sigma16</td>
+      <td>☕ Enhancing Python Skills</td>
     </tr>
     <tr>
       <td>🐍 Building Python Tools</td>
@@ -94,9 +94,9 @@
   
 <div align="justify" style="margin-top: 15px;">
   
-My coding journey began at age 8 with Scratch, discovering the thrill of creating interactive experiences. By 11, I was building websites with HTML/CSS, learning the power of visual design. At 13, Python became my tool of choice for solving complex problems and building practical applications.
+I started to code when I was 8 years old with Scratch, and that is where I got to know how exciting it is to create interactive projects. At the age of 11, I began creating websites with HTML and CSS, and I got to know how design and structure were integrated on the web. When I was 13, I learned about Python which became the primary source of my problem-solving and construction of useful applications.
 
-Today, I'm focused on software engineering fundamentals: system design, algorithms, and professional development practices. I'm preparing for university studies while expanding my skills in Java and backend development.
+I am currently enrolled in university studying Software Engineering which is the basic fundamentals of computer science which includes algorithms, data structures and problem solving. Besides my coursework, I am still developing projects in Python and working on web technologies and enhancing my knowledge of software development practises and version control.
 
 </div>
 </details>
