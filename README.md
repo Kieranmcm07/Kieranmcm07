@@ -90,10 +90,9 @@
 
 ---
 
-<details>
-<summary><b>🧭 My Development Journey</b></summary>
+# 🧭 My Development Journey
   
-<div align="center" style="margin-top: 15px;">
+<div align="left" style="margin-top: 15px;">
   
 My coding journey began at age 8 with Scratch, discovering the thrill of creating interactive experiences. By 11, I was building websites with HTML/CSS, learning the power of visual design. At 13, Python became my tool of choice for solving complex problems and building practical applications.
 
