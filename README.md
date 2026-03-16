@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 
 <div align="center">
   
@@ -60,7 +60,7 @@
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -71,7 +71,7 @@
 
 ---
 
-### 🚀 Current Focus
+## 🚀 Current Focus
 <div align="center">
   <table>
     <tr>
@@ -90,9 +90,9 @@
 
 ---
 
-# 🧭 My Development Journey
+## 🧭 My Development Journey
   
-<div align="left" style="margin-top: 15px;">
+<div align="justify" style="margin-top: 15px;">
   
 My coding journey began at age 8 with Scratch, discovering the thrill of creating interactive experiences. By 11, I was building websites with HTML/CSS, learning the power of visual design. At 13, Python became my tool of choice for solving complex problems and building practical applications.
 
