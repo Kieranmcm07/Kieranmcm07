@@ -55,25 +55,25 @@ Outside coursework, I like building useful Windows tools, experimenting with Lin
 
 ## Current Focus
 
-| Area           | What I'm working on                                                          |
-| -------------- | ---------------------------------------------------------------------------- |
-| **University** | Building a stronger computer science and software engineering foundation.    |
-| **Python**     | Practical tools, automation, clean code and problem solving.                 |
-| **Java**       | Object-oriented programming and second-year coursework.                      |
-| **Core CS**    | Algorithms, data structures, databases and software design.                  |
-| **Linux**      | Becoming more comfortable with the command line and development environment. |
+| Area | What I'm working on |
+| --- | --- |
+| **University** | Building a stronger computer science and software engineering foundation. |
+| **Python** | Practical tools, automation, clean code and problem solving. |
+| **Java** | Object-oriented programming and second-year coursework. |
+| **Core CS** | Algorithms, data structures, databases and software design. |
+| **Linux** | Becoming more comfortable with the command line and development environment. |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Selected Projects
 
-| Project                    | Description                                                       |
-| -------------------------- | ----------------------------------------------------------------- |
-| **Sweepkin**               | Windows cleaning and optimisation utility built with Python.      |
-| **DateForge**              | Toolkit for working with file and folder timestamps.              |
-| **Nexus Monitor**          | System monitoring project.                                        |
-| **Discord Moderation Bot** | Moderation and utility bot using Python and `discord.py`.         |
-| **OBD Regen Detector**     | Python project for analysing OBD data and regeneration behaviour. |
+| Project | Description |
+| --- | --- |
+| **Sweepkin** | Windows cleaning and optimisation utility built with Python. |
+| **DateForge** | Toolkit for working with file and folder timestamps. |
+| **Nexus Monitor** | System monitoring project. |
+| **Discord Moderation Bot** | Moderation and utility bot using Python and `discord.py`. |
+| **OBD Regen Detector** | Python project for analysing OBD data and regeneration behaviour. |
 
 > More projects are available in my repositories — this profile is a snapshot of what I'm currently building and learning.
 
