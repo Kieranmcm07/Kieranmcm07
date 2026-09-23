@@ -18,14 +18,14 @@ Building practical software, learning how systems work underneath the surface, a
 
 <table>
 <tr>
-<td width="500" valign="top">
+<td width="500" valign="top" align="center">
 
 I'm a Software Engineering student at the **University of Glasgow**. I started programming with Scratch when I was 8, moved into HTML and CSS in high school, and later picked up Python for larger projects and practical tools.
 
 I like building things that are useful outside a tutorial: Windows utilities, automation, hardware tools and small applications I can keep improving.
 
 </td>
-<td width="250" valign="top">
+<td width="250" valign="top" align="center">
 
 ### Right now
 
@@ -103,7 +103,7 @@ Linux, development tooling and PC hardware
 
 <table>
 <tr>
-<td width="250" valign="top">
+<td width="250" valign="top" align="center">
 
 ### Build
 
@@ -133,7 +133,7 @@ Practical **Python applications**, automation and desktop utilities with cleaner
 
 <table>
 <tr>
-<td width="375" valign="top">
+<td width="375" valign="top" align="center">
 
 ### [Sweepkin](https://github.com/Kieranmcm07/Sweepkin)
 
@@ -182,7 +182,7 @@ Simple Python CLI for downloading supported TikTok videos and photo slideshows.
 </tr>
 </table>
 
-<div align="center">
+<div align="right">
 
 **[View all repositories →](https://github.com/Kieranmcm07?tab=repositories)**
 
@@ -226,19 +226,19 @@ Simple Python CLI for downloading supported TikTok videos and photo slideshows.
 
 <table>
 <tr>
-<td width="250" valign="top">
+<td width="250" valign="top" align="center">
 
 **Better code**  
 Readable, maintainable software with clearer structure and documentation.
 
 </td>
-<td width="250" valign="top">
+<td width="250" valign="top" align="center">
 
 **Stronger fundamentals**  
 More confidence with Java, OOP, algorithms, data structures and databases.
 
 </td>
-<td width="250" valign="top">
+<td width="250" valign="top" align="center">
 
 **Better projects**  
 Tools that solve real problems and show visible improvement from version to version.
