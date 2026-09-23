@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="76" viewBox="0 0 760 76" fill="none" role="img" aria-labelledby="title">
-  <title id="title">Desktop utilities</title>
+  <title id="title">Sweepkin</title>
   <rect width="760" height="76" rx="8" fill="#12243A" />
   <path d="M0 74H760" stroke="#60A5FA" stroke-width="4" />
   <circle cx="718" cy="24" r="57" fill="#60A5FA" opacity=".07" />
@@ -7,5 +7,5 @@
     <rect x="22" y="20" width="42" height="29" rx="4" />
     <path d="M36 56H50M43 49V56M59 12L62 20L70 23L62 26L59 34L56 26L48 23L56 20Z" fill="#12243A" />
   </g>
-  <text x="87" y="43" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing=".2">Desktop utilities</text>
+  <text x="87" y="49" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing=".2">Sweepkin</text>
 </svg>

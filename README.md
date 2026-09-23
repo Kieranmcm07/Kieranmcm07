@@ -14,7 +14,7 @@ Usually working on a Python project, or figuring out how something works.
 
 ## About Me
 
-Hey, I'm Kieran ? a **Software Engineering student at the University of Glasgow**, based in Scotland. I've been interested in programming since I was eight, when I started making things in Scratch. In high school I moved on to HTML and CSS, then picked up Python as I wanted to build more practical tools.
+Hey, I'm Kieran — a **Software Engineering student at the University of Glasgow**, based in Scotland. I've been interested in programming since I was eight, when I started making things in Scratch. In high school I moved on to HTML and CSS, then picked up Python as I wanted to build more practical tools.
 
 Most of my projects now involve **Python, desktop apps and automation**. I enjoy having something I can use on my own PC, whether that's a Windows utility, a tool for working with files, or a way to keep an eye on my hardware. Getting something working is satisfying, but I also like coming back to it later and seeing what I can improve.
 
@@ -111,55 +111,31 @@ I'm still learning as I go. At the moment, that means getting more comfortable w
 
 A few things I've been working on. They're all built with Python, but each scratches a different itch.
 
-<img src="./assets/project-sweepkin.svg" width="100%" alt="Desktop utilities" />
-
-### Sweepkin
+<h3><img src="./assets/project-sweepkin.svg" width="100%" alt="Sweepkin" /></h3>
 
 A Windows cleaning and optimisation utility for tidying up a PC.
 
-`Python` ? `Windows` ? `Desktop app`
+[View repository →](https://github.com/Kieranmcm07/Sweepkin)
 
-[View repository ?](https://github.com/Kieranmcm07/Sweepkin)
-
-<br />
-
-<img src="./assets/project-dateforge.svg" width="100%" alt="File tools" />
-
-### DateForge
+<h3><img src="./assets/project-dateforge.svg" width="100%" alt="DateForge" /></h3>
 
 A terminal-style tool for changing file and folder timestamps. Dry-run previews let you check the changes before applying them.
 
-`Python` ? `CLI` ? `File metadata`
+[View repository →](https://github.com/Kieranmcm07/DateForge)
 
-[View repository ?](https://github.com/Kieranmcm07/DateForge)
-
-<br />
-
-<img src="./assets/project-nexus.svg" width="100%" alt="System monitoring" />
-
-### Nexus Hardware Monitor
+<h3><img src="./assets/project-nexus.svg" width="100%" alt="Nexus Hardware Monitor" /></h3>
 
 A closer look at what your PC is doing, with live sensor readings, alerts and history. It also includes a compact gaming HUD.
 
-`Python` ? `Hardware` ? `Windows / Linux`
+[View repository →](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
 
-[View repository ?](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
-
-<br />
-
-<img src="./assets/project-downloader.svg" width="100%" alt="Media tools" />
-
-### TikTok Downloader
+<h3><img src="./assets/project-downloader.svg" width="100%" alt="TikTok Downloader" /></h3>
 
 A simple command-line tool for downloading supported TikTok videos and photo slideshows.
 
-`Python` ? `CLI` ? `Media`
+[View repository →](https://github.com/Kieranmcm07/TikTok-Downloader)
 
-[View repository ?](https://github.com/Kieranmcm07/TikTok-Downloader)
-
-<br />
-
-[See what else I've been building ?](https://github.com/Kieranmcm07?tab=repositories)
+[See what else I've been building →](https://github.com/Kieranmcm07?tab=repositories)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -195,6 +171,6 @@ A simple command-line tool for downloading supported TikTok videos and photo sli
 
 <div align="center">
 
-<sub>Thanks for having a look around ? feel free to explore the repos or say hello.</sub>
+<sub>Thanks for having a look around — feel free to explore the repos or say hello.</sub>
 
 </div>
