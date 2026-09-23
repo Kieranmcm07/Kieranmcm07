@@ -141,7 +141,7 @@ Right now I'm strengthening my foundations in **algorithms, data structures, dat
 
 </div>
 
-<p align="center"><a href="https://github.com/Kieranmcm07?tab=repositories"><b>View all repositories →</b></a></p>
+<p align="right"><a href="https://github.com/Kieranmcm07?tab=repositories"><b>View all repositories →</b></a></p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

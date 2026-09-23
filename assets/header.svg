@@ -19,7 +19,6 @@
     <clipPath id="clip"><rect x="70" y="35" width="860" height="160" rx="18"/></clipPath>
   </defs>
 
-  <rect width="1000" height="230" fill="#0d1117"/>
   <rect x="70" y="35" width="860" height="160" rx="18" fill="url(#bg)" stroke="#30363d"/>
 
   <g clip-path="url(#clip)" opacity="0.25">
