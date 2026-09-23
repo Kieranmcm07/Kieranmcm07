@@ -111,27 +111,59 @@ I'm still learning as I go. At the moment, that means getting more comfortable w
 
 A few things I've been working on. They're all built with Python, but each scratches a different itch.
 
-<h3><img src="./assets/project-sweepkin.svg" width="100%" alt="Sweepkin" /></h3>
+<img src="./assets/project-sweepkin.svg" width="100%" alt="Sweepkin" />
 
-A Windows cleaning and optimisation utility for tidying up a PC.
+### Sweepkin
+
+Sweepkin is a Windows 11 cleanup app that lets you see what's taking up space before you remove it. It scans specific locations for temporary files, crash dumps, Recycle Bin contents and Windows error reports, then shows the results so you can choose which categories to clean.
+
+The desktop interface includes a system overview, searchable results and a history of previous cleanups. It's still an early release, with the focus on making each cleanup easy to review and keeping you in control of what gets deleted.
+
+- Review file paths, sizes and timestamps before cleaning.
+- Follow scan and cleanup progress, with the option to cancel.
+- Choose from four colour themes in a Windows 11-style interface.
 
 [View repository →](https://github.com/Kieranmcm07/Sweepkin)
 
-<h3><img src="./assets/project-dateforge.svg" width="100%" alt="DateForge" /></h3>
+<img src="./assets/project-dateforge.svg" width="100%" alt="DateForge" />
 
-A terminal-style tool for changing file and folder timestamps. Dry-run previews let you check the changes before applying them.
+### DateForge
+
+DateForge is a terminal toolkit for changing the dates attached to files and folders without editing their contents. You can update a single file, work through a whole folder, or apply changes to a batch of paths. It accepts exact timestamps as well as shortcuts such as `now` and `today 18:30`.
+
+There's a menu-based launcher for working through the options and direct commands for quicker jobs. Changes are recorded in a local history log, so you can inspect what happened and undo the most recent change.
+
+- Filter which files are included in a folder update.
+- Save timestamp presets to reuse across different files.
+- Change modified dates, with created-date support on Windows.
 
 [View repository →](https://github.com/Kieranmcm07/DateForge)
 
-<h3><img src="./assets/project-nexus.svg" width="100%" alt="Nexus Hardware Monitor" /></h3>
+<img src="./assets/project-nexus.svg" width="100%" alt="Nexus Hardware Monitor" />
 
-A closer look at what your PC is doing, with live sensor readings, alerts and history. It also includes a compact gaming HUD.
+### Nexus Hardware Monitor
+
+Nexus is a desktop dashboard for seeing what your PC is doing in real time. It brings together CPU and memory usage, storage, network activity, running processes and available sensor readings, with graphs that make changes easier to follow. It supports Windows and Linux, with a command-line snapshot option as well.
+
+Beyond the live view, you can set alerts, look back through recorded history and export hardware reports. A compact, always-on-top gaming HUD keeps selected readings visible without leaving the full dashboard open. System readings and history stay on your machine.
+
+- Explore per-process CPU and memory use.
+- Add temperature, fan and drive-health readings through optional integrations.
+- Run network diagnostics and short CPU, memory and storage checks.
 
 [View repository →](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
 
-<h3><img src="./assets/project-downloader.svg" width="100%" alt="TikTok Downloader" /></h3>
+<img src="./assets/project-downloader.svg" width="100%" alt="TikTok Downloader" />
 
-A simple command-line tool for downloading supported TikTok videos and photo slideshows.
+### TikTok Downloader
+
+TikTok Downloader is a small Python tool for saving supported public TikTok videos and photo slideshows from the command line. You choose an option from the menu, paste a link and let it handle the download. It uses yt-dlp for video downloads and supports both full TikTok URLs and shortened share links.
+
+You can choose where downloads are saved, while slideshow images go into their own photos folder. Filenames include the creator's username and post ID to help keep downloads organised. It's a straightforward utility for saving content you have permission to download.
+
+- Download videos in the best available quality.
+- Save the individual images from photo slideshows.
+- Change the output folder directly from the menu.
 
 [View repository →](https://github.com/Kieranmcm07/TikTok-Downloader)
 
