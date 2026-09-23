@@ -1,6 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="195" viewBox="0 0 760 195" role="img" aria-label="GitHub stats card placeholder">
-  <rect x="1" y="1" width="758" height="193" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <text x="380" y="78" text-anchor="middle" fill="#58c4dd" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">GitHub Snapshot</text>
-  <text x="380" y="112" text-anchor="middle" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="14">The rank card will be cached here automatically after the workflow runs.</text>
-  <text x="380" y="142" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12">Actions → Refresh GitHub stats card → Run workflow</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="196" viewBox="0 0 760 196" role="img" aria-labelledby="title desc">
+  <title id="title">Kieranmcm07's GitHub snapshot</title>
+  <desc id="desc">62 public repositories, 39 stars earned, 0 project forks and 161 followers. Stars and forks exclude forked repositories. Updated 23 Sep 2026.</desc>
+  <rect x="1" y="1" width="758" height="194" rx="14" fill="#0d1117" stroke="#30363d" />
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="38" y="39" fill="#7dd3fc" font-size="17" font-weight="600">A little of what I've shared on GitHub</text>
+    <text x="38" y="104" fill="#f0f6fc" font-size="34" font-weight="700">62</text><text x="38" y="132" fill="#a8b3bf" font-size="15">Public repos</text><text x="222" y="104" fill="#f0f6fc" font-size="34" font-weight="700">39</text><text x="222" y="132" fill="#a8b3bf" font-size="15">Stars earned</text><text x="406" y="104" fill="#f0f6fc" font-size="34" font-weight="700">0</text><text x="406" y="132" fill="#a8b3bf" font-size="15">Project forks</text><text x="590" y="104" fill="#f0f6fc" font-size="34" font-weight="700">161</text><text x="590" y="132" fill="#a8b3bf" font-size="15">Followers</text>
+    <text x="38" y="175" fill="#a8b3bf" font-size="12">Stars and forks from original public repos · Updated 23 Sep 2026</text>
+  </g>
 </svg>

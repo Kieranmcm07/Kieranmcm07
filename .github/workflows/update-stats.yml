@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - .github/workflows/update-stats.yml
+      - scripts/update_stats.py
+      - tests/test_update_stats.py
   schedule:
     - cron: "41 1 * * *"
   workflow_dispatch:
@@ -26,27 +28,14 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Fetch fresh rank cards
-        shell: bash
-        run: |
-          set -euo pipefail
+      - name: Check stats generation
+        run: python3 -B -m unittest discover -s tests
 
-          DARK_URL='https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&include_all_commits=true&rank_icon=default&hide_border=false&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58C4DD&icon_color=4F8CFF&text_color=C9D1D9&ring_color=35D07F&card_width=760'
-          LIGHT_URL='https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&include_all_commits=true&rank_icon=default&hide_border=false&bg_color=FFFFFF&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=24292F&ring_color=1A7F37&card_width=760'
-
-          curl -L --fail --silent --show-error --retry 3 --max-time 45 "$DARK_URL" -o /tmp/github-stats-dark.svg
-          curl -L --fail --silent --show-error --retry 3 --max-time 45 "$LIGHT_URL" -o /tmp/github-stats-light.svg
-
-          for file in /tmp/github-stats-dark.svg /tmp/github-stats-light.svg; do
-            grep -q '<svg' "$file"
-            if grep -qiE 'something went wrong|rate.?limit|error occurred' "$file"; then
-              echo "Stats service returned an error card. Keeping the last working copy."
-              exit 1
-            fi
-          done
-
-          mv /tmp/github-stats-dark.svg assets/github-stats-dark.svg
-          mv /tmp/github-stats-light.svg assets/github-stats-light.svg
+      - name: Generate cards from GitHub
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: python3 -B scripts/update_stats.py --username "$PROFILE_USERNAME"
 
       - name: Commit refreshed cards
         shell: bash

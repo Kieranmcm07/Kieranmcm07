@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="76" viewBox="0 0 360 76" fill="none" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="76" viewBox="0 0 760 76" fill="none" role="img" aria-labelledby="title">
   <title id="title">File tools</title>
-  <rect width="360" height="76" rx="8" fill="#302317" />
-  <path d="M0 74H360" stroke="#FBBF24" stroke-width="4" />
-  <circle cx="318" cy="24" r="57" fill="#FBBF24" opacity=".07" />
+  <rect width="760" height="76" rx="8" fill="#302317" />
+  <path d="M0 74H760" stroke="#FBBF24" stroke-width="4" />
+  <circle cx="718" cy="24" r="57" fill="#FBBF24" opacity=".07" />
   <g stroke="#FCD34D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <rect x="22" y="21" width="40" height="33" rx="4" />
     <path d="M30 32L36 37L30 42M41 44H48" />
     <circle cx="61" cy="24" r="11" fill="#302317" />
     <path d="M61 18V24L66 27" />
   </g>
-  <text x="87" y="43" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1">FILE TOOLS</text>
+  <text x="87" y="43" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing=".2">File tools</text>
 </svg>

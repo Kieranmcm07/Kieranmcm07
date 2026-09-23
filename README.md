@@ -2,9 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Kieran McMonagle — Software Engineering" />
 
-### Software Engineering student at the University of Glasgow
-
-Python tools. Desktop apps. A curiosity for what happens under the hood.
+Usually working on a Python project, or figuring out how something works.
 
 <a href="mailto:kieransworkstuff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-4874C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Kieranmcm07"><img src="https://img.shields.io/badge/GitHub-Kieranmcm07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -16,9 +14,11 @@ Python tools. Desktop apps. A curiosity for what happens under the hood.
 
 ## About Me
 
-I started with **Scratch at eight** and kept building from there. These days, I mostly write Python: cleaning up Windows, automating repetitive jobs, and finding out what my PC is doing.
+Hey, I'm Kieran ? a **Software Engineering student at the University of Glasgow**, based in Scotland. I've been interested in programming since I was eight, when I started making things in Scratch. In high school I moved on to HTML and CSS, then picked up Python as I wanted to build more practical tools.
 
-I like projects I can actually use, take apart, and make better the next time around.
+Most of my projects now involve **Python, desktop apps and automation**. I enjoy having something I can use on my own PC, whether that's a Windows utility, a tool for working with files, or a way to keep an eye on my hardware. Getting something working is satisfying, but I also like coming back to it later and seeing what I can improve.
+
+I'm still learning as I go. At the moment, that means getting more comfortable with **Java and object-oriented programming**, exploring Linux, and understanding more of what's happening underneath the software I use. This profile is where I share what I've been making along the way.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -109,70 +109,57 @@ I like projects I can actually use, take apart, and make better the next time ar
 
 ## Featured Projects
 
-<table align="center">
-<tr>
-<td width="375" valign="top" align="left">
+A few things I've been working on. They're all built with Python, but each scratches a different itch.
 
-<img src="./assets/project-sweepkin.svg" width="100%" alt="Desktop utilities — blue sparkle illustration" />
+<img src="./assets/project-sweepkin.svg" width="100%" alt="Desktop utilities" />
 
 ### Sweepkin
 
-Windows cleaning and optimisation utility built with Python.
+A Windows cleaning and optimisation utility for tidying up a PC.
 
-`Python` `Windows` `Desktop Tool`
+`Python` ? `Windows` ? `Desktop app`
 
-[View repository →](https://github.com/Kieranmcm07/Sweepkin)
+[View repository ?](https://github.com/Kieranmcm07/Sweepkin)
 
-</td>
-<td width="375" valign="top" align="left">
+<br />
 
-<img src="./assets/project-dateforge.svg" width="100%" alt="File tools — amber terminal and clock illustration" />
+<img src="./assets/project-dateforge.svg" width="100%" alt="File tools" />
 
 ### DateForge
 
-Terminal-style toolkit for changing file and folder timestamps with dry-run previews.
+A terminal-style tool for changing file and folder timestamps. Dry-run previews let you check the changes before applying them.
 
-`Python` `CLI` `File Metadata`
+`Python` ? `CLI` ? `File metadata`
 
-[View repository →](https://github.com/Kieranmcm07/DateForge)
+[View repository ?](https://github.com/Kieranmcm07/DateForge)
 
-</td>
-</tr>
-<tr>
-<td width="375" valign="top" align="left">
+<br />
 
-<img src="./assets/project-nexus.svg" width="100%" alt="System monitoring — green sensor waveform" />
+<img src="./assets/project-nexus.svg" width="100%" alt="System monitoring" />
 
 ### Nexus Hardware Monitor
 
-PC hardware monitor with live system data, sensors, alerts, history and a compact gaming HUD.
+A closer look at what your PC is doing, with live sensor readings, alerts and history. It also includes a compact gaming HUD.
 
-`Python` `Hardware` `Windows / Linux`
+`Python` ? `Hardware` ? `Windows / Linux`
 
-[View repository →](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
+[View repository ?](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
 
-</td>
-<td width="375" valign="top" align="left">
+<br />
 
-<img src="./assets/project-downloader.svg" width="100%" alt="Media tools — purple download illustration" />
+<img src="./assets/project-downloader.svg" width="100%" alt="Media tools" />
 
 ### TikTok Downloader
 
-Simple Python CLI for downloading supported TikTok videos and photo slideshows.
+A simple command-line tool for downloading supported TikTok videos and photo slideshows.
 
-`Python` `CLI` `Automation`
+`Python` ? `CLI` ? `Media`
 
-[View repository →](https://github.com/Kieranmcm07/TikTok-Downloader)
+[View repository ?](https://github.com/Kieranmcm07/TikTok-Downloader)
 
-</td>
-</tr>
-</table>
+<br />
 
-<div align="center">
-
-**[View all repositories →](https://github.com/Kieranmcm07?tab=repositories)**
-
-</div>
+[See what else I've been building ?](https://github.com/Kieranmcm07?tab=repositories)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -183,7 +170,7 @@ Simple Python CLI for downloading supported TikTok videos and photo slideshows.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg" />
-  <img width="96%" alt="Kieran's GitHub stats and profile rank" src="./assets/github-stats-dark.svg" />
+  <img width="100%" alt="Kieran's public repositories, stars, forks and followers" src="./assets/github-stats-dark.svg" />
 </picture>
 
 </div>
@@ -208,7 +195,6 @@ Simple Python CLI for downloading supported TikTok videos and photo slideshows.
 
 <div align="center">
 
-<b>Build. Break. Understand. Improve.</b><br />
-<sub>Always learning. Usually tinkering.</sub>
+<sub>Thanks for having a look around ? feel free to explore the repos or say hello.</sub>
 
 </div>
