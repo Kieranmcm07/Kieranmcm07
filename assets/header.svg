@@ -1,42 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
-  <title id="title">Kieran McMonagle — Software Engineering</title>
-  <desc id="desc">Dark animated GitHub profile banner with blue, cyan and green accents.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Kieran McMonagle</title>
+  <desc id="desc">Software Engineering student at the University of Glasgow. A navy banner with a blue accent and a subtle code motif.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.55" stop-color="#111923"/>
-      <stop offset="1" stop-color="#0d1117"/>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111C2E" />
+      <stop offset="1" stop-color="#0D1117" />
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4f8cff"/>
-      <stop offset="0.5" stop-color="#55d6e8"/>
-      <stop offset="1" stop-color="#39d98a"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" />
+      <stop offset="1" stop-color="#5EEAD4" />
     </linearGradient>
-    <filter id="glow" x="-100%" y="-500%" width="300%" height="1100%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="clip"><rect x="70" y="35" width="860" height="160" rx="18"/></clipPath>
+    <clipPath id="bounds"><rect width="960" height="200" rx="12" /></clipPath>
   </defs>
-
-  <rect x="70" y="35" width="860" height="160" rx="18" fill="url(#bg)" stroke="#30363d"/>
-
-  <g clip-path="url(#clip)" opacity="0.25">
-    <circle cx="120" cy="68" r="90" fill="#4f8cff"><animate attributeName="opacity" values=".08;.22;.08" dur="5s" repeatCount="indefinite"/></circle>
-    <circle cx="880" cy="170" r="110" fill="#39d98a"><animate attributeName="opacity" values=".18;.06;.18" dur="6s" repeatCount="indefinite"/></circle>
+  <g clip-path="url(#bounds)">
+    <rect width="960" height="200" fill="url(#background)" />
+    <rect width="960" height="3" fill="url(#accent)" />
+    <circle cx="910" cy="100" r="145" stroke="#23344A" />
+    <circle cx="910" cy="100" r="110" stroke="#23344A" />
+    <path d="M817 78L795 100L817 122M884 78L906 100L884 122M863 67L838 133" stroke="#5EEAD4" stroke-opacity=".6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="40" y="52" fill="#7DD3FC" font-size="16" font-weight="600" letter-spacing="2">HI, I'M KIERAN</text>
+      <text x="38" y="111" fill="#F0F6FC" font-size="48" font-weight="700" letter-spacing="-1">Kieran McMonagle</text>
+      <text x="40" y="153" fill="#B4C2D3" font-size="21">Software Engineering · University of Glasgow</text>
+    </g>
   </g>
-
-  <circle cx="105" cy="61" r="5" fill="#ff5f56"/>
-  <circle cx="123" cy="61" r="5" fill="#ffbd2e"/>
-  <circle cx="141" cy="61" r="5" fill="#27c93f"/>
-  <text x="500" y="66" text-anchor="middle" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/Kieranmcm07/profile</text>
-
-  <text x="500" y="119" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing=".5">Kieran McMonagle</text>
-  <text x="500" y="150" text-anchor="middle" fill="#a8b3bf" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="1.8">SOFTWARE ENGINEERING · PYTHON · JAVA · LINUX</text>
-
-  <rect x="185" y="170" width="630" height="2.5" rx="1.25" fill="url(#accent)" opacity=".75"/>
-  <circle cy="171.25" r="5.5" fill="#55d6e8" filter="url(#glow)">
-    <animate attributeName="cx" values="185;815;185" dur="5.8s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#4f8cff;#39d98a;#4f8cff" dur="5.8s" repeatCount="indefinite"/>
-  </circle>
 </svg>
