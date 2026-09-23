@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="195" viewBox="0 0 760 195" role="img" aria-label="GitHub stats card placeholder">
+  <rect x="1" y="1" width="758" height="193" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="380" y="78" text-anchor="middle" fill="#58c4dd" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">GitHub Snapshot</text>
+  <text x="380" y="112" text-anchor="middle" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="14">The rank card will be cached here automatically after the workflow runs.</text>
+  <text x="380" y="142" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12">Actions → Refresh GitHub stats card → Run workflow</text>
+</svg>
