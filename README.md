@@ -1,160 +1,111 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=44&pause=1000&color=4874C4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kieran;Software+Engineering+Student;Python+Developer+in+Progress;Learning+Java+and+Core+CS" alt="Typing introduction" />
-  </a>
+<img src="./assets/header.svg" width="100%" alt="Kieran McMonagle — Software Engineering" />
 
-  <h3>Software Engineering Student | Python Learner | Problem Solver</h3>
+### Software Engineering student at the University of Glasgow
 
-  <p>
-    Based in Scotland and studying Software Engineering at the University of Glasgow.
-    I enjoy building practical tools, understanding how software works under the hood, and improving one project at a time.
-  </p>
+Building practical software, learning how systems work underneath the surface, and improving one project at a time.
 
-  <p>
-    <a href="mailto:kieransworkstuff@gmail.com">
-      <img src="https://img.shields.io/badge/Email-kieransworkstuff%40gmail.com-4874C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Scotland-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Scotland" />
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4874C4,100:2E8B57&height=3&section=footer" alt="" />
+<a href="mailto:kieransworkstuff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-4874C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Kieranmcm07"><img src="https://img.shields.io/badge/GitHub-Kieranmcm07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Scotland-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Scotland" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## About Me
 
-I started coding when I was 8 with Scratch, where I discovered how fun it was to create interactive projects. In high school I spent time with HTML and CSS, then moved toward Python, which became my main language for problem solving and building useful applications.
+I started programming with Scratch when I was 8, moved into HTML and CSS in high school, and later picked up Python for larger projects and tools.
 
-Right now, I am focused on strengthening my foundations in software engineering, including programming fundamentals, algorithms, data structures, version control, databases, and Java for second year. I like projects that teach me something practical and leave me with a tool I can keep improving.
+I'm now studying **Software Engineering at the University of Glasgow**, where I'm strengthening my foundations in programming, algorithms, data structures, databases, version control and software design. I'm also learning **Java** and getting more comfortable with object-oriented programming.
 
----
+Outside coursework, I like building useful Windows tools, experimenting with Linux, working on web projects, and learning by making things I can keep improving.
 
-## Technical Toolkit
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Tech I Use
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <br />
-        <strong>Python</strong>
-      </td>
-      <td align="center" width="120">
-        <img alt="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <br />
-        <strong>HTML</strong>
-      </td>
-      <td align="center" width="120">
-        <img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <br />
-        <strong>CSS</strong>
-      </td>
-      <td align="center" width="120">
-        <img alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        <br />
-        <strong>Java</strong>
-        <br />
-        <sub>Learning</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <br />
-        <strong>Git</strong>
-      </td>
-      <td align="center" width="120">
-        <img alt="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <br />
-        <strong>GitHub</strong>
-      </td>
-      <td align="center" width="120">
-        <img alt="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-        <br />
-        <strong>MySQL</strong>
-      </td>
-      <td align="center" width="120">
-        <img alt="Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-        <br />
-        <strong>Linux</strong>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/><br><b>Python</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/><br><b>Java</b><br><sub>Learning</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML"/><br><b>HTML</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS"/><br><b>CSS</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/><br><b>MySQL</b></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/><br><b>Git</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/><br><b>GitHub</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/><br><b>Linux</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/><br><b>VS Code</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" alt="Windows"/><br><b>Windows</b></td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Main%20Focus-Python-4874C4?style=flat-square&logo=python&logoColor=white" alt="Main focus Python" />
+<img src="https://img.shields.io/badge/Learning-Java-EA2D2E?style=flat-square&logo=openjdk&logoColor=white" alt="Learning Java" />
+<img src="https://img.shields.io/badge/Interested%20In-Software%20Engineering-2E8B57?style=flat-square" alt="Software Engineering" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Main%20Focus-Python-4874C4?style=flat-square&logo=python&logoColor=white" alt="Main focus: Python" />
-  <img src="https://img.shields.io/badge/Learning-Java-EA2D2E?style=flat-square&logo=openjdk&logoColor=white" alt="Learning Java" />
-  <img src="https://img.shields.io/badge/Interested%20In-Software%20Engineering-2E8B57?style=flat-square" alt="Interested in Software Engineering" />
-  <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
-</p>
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Current Focus
 
+| Area           | What I'm working on                                                          |
+| -------------- | ---------------------------------------------------------------------------- |
+| **University** | Building a stronger computer science and software engineering foundation.    |
+| **Python**     | Practical tools, automation, clean code and problem solving.                 |
+| **Java**       | Object-oriented programming and second-year coursework.                      |
+| **Core CS**    | Algorithms, data structures, databases and software design.                  |
+| **Linux**      | Becoming more comfortable with the command line and development environment. |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Selected Projects
+
+| Project                    | Description                                                       |
+| -------------------------- | ----------------------------------------------------------------- |
+| **Sweepkin**               | Windows cleaning and optimisation utility built with Python.      |
+| **DateForge**              | Toolkit for working with file and folder timestamps.              |
+| **Nexus Monitor**          | System monitoring project.                                        |
+| **Discord Moderation Bot** | Moderation and utility bot using Python and `discord.py`.         |
+| **OBD Regen Detector**     | Python project for analysing OBD data and regeneration behaviour. |
+
+> More projects are available in my repositories — this profile is a snapshot of what I'm currently building and learning.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Contribution Activity
+
 <div align="center">
 
-  <table>
-    <tr>
-      <td><strong>University</strong></td>
-      <td>Building a strong computer science foundation through Software Engineering coursework.</td>
-    </tr>
-    <tr>
-      <td><strong>Python</strong></td>
-      <td>Creating small tools, practising clean code, and improving problem-solving skills.</td>
-    </tr>
-    <tr>
-      <td><strong>Java</strong></td>
-      <td>Learning the language as part of second year and building confidence with object-oriented programming.</td>
-    </tr>
-    <tr>
-      <td><strong>Core CS</strong></td>
-      <td>Studying data structures, algorithms, databases, and software development practices.</td>
-    </tr>
-  </table>
+<!-- Generated by .github/workflows/snake.yml and stored on the output branch. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kieranmcm07/Kieranmcm07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kieranmcm07/Kieranmcm07/output/github-contribution-grid-snake.svg" />
+  <img alt="Kieran's GitHub contribution snake" src="https://raw.githubusercontent.com/Kieranmcm07/Kieranmcm07/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>The animation is generated automatically from my GitHub contribution graph.</sub>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## GitHub Activity
+## What I'm Building Toward
 
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="Kieran's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranmcm07&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-
-  <br />
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=Kieranmcm07&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-  <br />
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kieranmcm07&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## What I Am Building Toward
-
-- Writing readable, maintainable code that solves real problems.
-- Becoming more confident with Python, Java, databases, and core software engineering concepts.
-- Improving my understanding of algorithms, data structures, and software design.
-- Building a portfolio of projects that shows steady progress and practical curiosity.
-
----
+- Writing readable, maintainable software that solves real problems.
+- Becoming more confident with Python, Java, databases and software engineering concepts.
+- Improving my understanding of algorithms, data structures and software design.
+- Learning more about Linux, development tooling and how software works under the hood.
+- Building a portfolio that shows steady progress rather than chasing contribution statistics.
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Kieranmcm07&color=4874C4&style=flat" alt="Profile views" />
+### Always learning. Always building.
 
 </div>
