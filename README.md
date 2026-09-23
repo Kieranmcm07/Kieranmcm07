@@ -24,7 +24,9 @@ Right now I'm strengthening my foundations in **algorithms, data structures, dat
 
 ## Technical Toolkit
 
-<table width="100%">
+<div align="center">
+
+<table align="center" width="90%">
   <tr>
     <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" alt="Python" /><br />
@@ -71,11 +73,15 @@ Right now I'm strengthening my foundations in **algorithms, data structures, dat
   </tr>
 </table>
 
+</div>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Current Focus
 
-<table width="100%">
+<div align="center">
+
+<table align="center" width="90%">
   <tr>
     <th align="left" width="24%">Area</th>
     <th align="left" width="76%">What I'm working on</th>
@@ -102,11 +108,15 @@ Right now I'm strengthening my foundations in **algorithms, data structures, dat
   </tr>
 </table>
 
+</div>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Featured Projects
 
-<table width="100%">
+<div align="center">
+
+<table align="center" width="90%">
   <tr>
     <th align="left" width="30%">Project</th>
     <th align="left" width="70%">What it does</th>
@@ -129,7 +139,23 @@ Right now I'm strengthening my foundations in **algorithms, data structures, dat
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/Kieranmcm07?tab=repositories"><b>View all repositories →</b></a></p>
+</div>
+
+<p align="center"><a href="https://github.com/Kieranmcm07?tab=repositories"><b>View all repositories →</b></a></p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## GitHub Snapshot
+
+<div align="center">
+
+<a href="https://github.com/Kieranmcm07">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Kieranmcm07&show_icons=true&include_all_commits=true&rank_icon=default&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58C4DD&icon_color=4F8CFF&text_color=C9D1D9&ring_color=35D07F&card_width=520" alt="Kieran's GitHub stats and profile rank" />
+</a>
+
+<sub>Public GitHub activity snapshot, including the profile rank calculated by GitHub Readme Stats.</sub>
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
