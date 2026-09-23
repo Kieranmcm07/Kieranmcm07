@@ -4,7 +4,7 @@
 
 ### Software Engineering student at the University of Glasgow
 
-Building practical software, learning how systems work underneath the surface, and improving through projects I can actually use.
+Python tools. Desktop apps. A curiosity for what happens under the hood.
 
 <a href="mailto:kieransworkstuff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-4874C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Kieranmcm07"><img src="https://img.shields.io/badge/GitHub-Kieranmcm07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -16,31 +16,9 @@ Building practical software, learning how systems work underneath the surface, a
 
 ## About Me
 
-<table>
-<tr>
-<td width="500" valign="top" align="center">
+I started with **Scratch at eight** and kept building from there. These days, I mostly write Python: cleaning up Windows, automating repetitive jobs, and finding out what my PC is doing.
 
-I'm a Software Engineering student at the **University of Glasgow**. I started programming with Scratch when I was 8, moved into HTML and CSS in high school, and later picked up Python for larger projects and practical tools.
-
-I like building things that are useful outside a tutorial: Windows utilities, automation, hardware tools and small applications I can keep improving.
-
-</td>
-<td width="250" valign="top" align="center">
-
-### Right now
-
-**Building**  
-Python tools and desktop applications
-
-**Learning**  
-Java, OOP and core computer science
-
-**Exploring**  
-Linux, development tooling and PC hardware
-
-</td>
-</tr>
-</table>
+I like projects I can actually use, take apart, and make better the next time around.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -101,27 +79,27 @@ Linux, development tooling and PC hardware
 
 ## What I'm Working On
 
-<table>
+<table align="center">
 <tr>
-<td width="250" valign="top" align="center">
+<td width="250" valign="top" align="left">
 
-### Build
+### 🛠️ Building
 
-Practical **Python applications**, automation and desktop utilities with cleaner structure and better maintainability.
-
-</td>
-<td width="250" valign="top">
-
-### Study
-
-**Java**, object-oriented programming, algorithms, data structures, databases and software design.
+**Python tools** that make everyday tasks easier, with cleaner code and better documentation.
 
 </td>
-<td width="250" valign="top">
+<td width="250" valign="top" align="left">
 
-### Explore
+### 🌱 Learning
 
-**Linux**, command-line tooling, development environments and how software interacts with hardware.
+**Java & OOP**, alongside algorithms, data structures and databases.
+
+</td>
+<td width="250" valign="top" align="left">
+
+### 🔎 Exploring
+
+**Linux & PC hardware**, from command-line tools to the sensors behind a system monitor.
 
 </td>
 </tr>
@@ -131,11 +109,13 @@ Practical **Python applications**, automation and desktop utilities with cleaner
 
 ## Featured Projects
 
-<table>
+<table align="center">
 <tr>
-<td width="375" valign="top" align="center">
+<td width="375" valign="top" align="left">
 
-### [Sweepkin](https://github.com/Kieranmcm07/Sweepkin)
+<img src="./assets/project-sweepkin.svg" width="100%" alt="Desktop utilities — blue sparkle illustration" />
+
+### Sweepkin
 
 Windows cleaning and optimisation utility built with Python.
 
@@ -144,9 +124,11 @@ Windows cleaning and optimisation utility built with Python.
 [View repository →](https://github.com/Kieranmcm07/Sweepkin)
 
 </td>
-<td width="375" valign="top">
+<td width="375" valign="top" align="left">
 
-### [DateForge](https://github.com/Kieranmcm07/DateForge)
+<img src="./assets/project-dateforge.svg" width="100%" alt="File tools — amber terminal and clock illustration" />
+
+### DateForge
 
 Terminal-style toolkit for changing file and folder timestamps with dry-run previews.
 
@@ -157,9 +139,11 @@ Terminal-style toolkit for changing file and folder timestamps with dry-run prev
 </td>
 </tr>
 <tr>
-<td width="375" valign="top">
+<td width="375" valign="top" align="left">
 
-### [Nexus Hardware Monitor](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
+<img src="./assets/project-nexus.svg" width="100%" alt="System monitoring — green sensor waveform" />
+
+### Nexus Hardware Monitor
 
 PC hardware monitor with live system data, sensors, alerts, history and a compact gaming HUD.
 
@@ -168,9 +152,11 @@ PC hardware monitor with live system data, sensors, alerts, history and a compac
 [View repository →](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
 
 </td>
-<td width="375" valign="top">
+<td width="375" valign="top" align="left">
 
-### [TikTok Downloader](https://github.com/Kieranmcm07/TikTok-Downloader)
+<img src="./assets/project-downloader.svg" width="100%" alt="Media tools — purple download illustration" />
+
+### TikTok Downloader
 
 Simple Python CLI for downloading supported TikTok videos and photo slideshows.
 
@@ -182,7 +168,7 @@ Simple Python CLI for downloading supported TikTok videos and photo slideshows.
 </tr>
 </table>
 
-<div align="right">
+<div align="center">
 
 **[View all repositories →](https://github.com/Kieranmcm07?tab=repositories)**
 
@@ -199,8 +185,6 @@ Simple Python CLI for downloading supported TikTok videos and photo slideshows.
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg" />
   <img width="96%" alt="Kieran's GitHub stats and profile rank" src="./assets/github-stats-dark.svg" />
 </picture>
-
-<sub>The grade/rank card is cached into this repository automatically, so a temporary outage of the third-party service does not break the profile.</sub>
 
 </div>
 
@@ -222,33 +206,9 @@ Simple Python CLI for downloading supported TikTok videos and photo slideshows.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## Building Toward
-
-<table>
-<tr>
-<td width="250" valign="top" align="center">
-
-**Better code**  
-Readable, maintainable software with clearer structure and documentation.
-
-</td>
-<td width="250" valign="top" align="center">
-
-**Stronger fundamentals**  
-More confidence with Java, OOP, algorithms, data structures and databases.
-
-</td>
-<td width="250" valign="top" align="center">
-
-**Better projects**  
-Tools that solve real problems and show visible improvement from version to version.
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<sub>Learning by building, breaking things, fixing them, and making the next version better.</sub>
+<b>Build. Break. Understand. Improve.</b><br />
+<sub>Always learning. Usually tinkering.</sub>
 
 </div>

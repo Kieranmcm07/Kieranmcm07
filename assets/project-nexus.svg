@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="76" viewBox="0 0 360 76" fill="none" role="img" aria-labelledby="title">
+  <title id="title">System monitoring</title>
+  <rect width="360" height="76" rx="8" fill="#112D29" />
+  <path d="M0 74H360" stroke="#34D399" stroke-width="4" />
+  <circle cx="318" cy="24" r="57" fill="#34D399" opacity=".07" />
+  <g stroke="#6EE7B7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="22" y="18" width="45" height="39" rx="5" />
+    <path d="M27 39H34L39 28L46 48L52 35L57 39H62" />
+  </g>
+  <text x="87" y="43" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1">SYSTEM MONITORING</text>
+</svg>

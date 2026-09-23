@@ -1,6 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Kieran McMonagle</title>
-  <desc id="desc">Software Engineering student at the University of Glasgow. A navy banner with a blue accent and a subtle code motif.</desc>
+  <desc id="desc">Software Engineering student at the University of Glasgow. A navy banner with animated circuit signals and a blue-to-mint accent.</desc>
+  <style>
+    .signal { stroke-dasharray: 18 260; animation: signal 7s linear infinite; }
+    .signal-delayed { animation-delay: -3.5s; }
+    .cursor { animation: blink 1.6s steps(2, end) infinite; }
+    @keyframes signal { to { stroke-dashoffset: -278; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .signal, .cursor { animation: none; } }
+  </style>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="960" y2="200" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111C2E" />
@@ -17,11 +25,20 @@
     <rect width="960" height="3" fill="url(#accent)" />
     <circle cx="910" cy="100" r="145" stroke="#23344A" />
     <circle cx="910" cy="100" r="110" stroke="#23344A" />
+    <g stroke="#263D55" stroke-width="2">
+      <path d="M710 35H770L800 65H950" />
+      <path d="M710 169H778L808 139H950" />
+    </g>
+    <g stroke="#5EEAD4" stroke-width="2">
+      <path class="signal" d="M710 35H770L800 65H950" />
+      <path class="signal signal-delayed" d="M710 169H778L808 139H950" />
+    </g>
     <path d="M817 78L795 100L817 122M884 78L906 100L884 122M863 67L838 133" stroke="#5EEAD4" stroke-opacity=".6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
     <g font-family="Segoe UI, Arial, sans-serif">
       <text x="40" y="52" fill="#7DD3FC" font-size="16" font-weight="600" letter-spacing="2">HI, I'M KIERAN</text>
       <text x="38" y="111" fill="#F0F6FC" font-size="48" font-weight="700" letter-spacing="-1">Kieran McMonagle</text>
       <text x="40" y="153" fill="#B4C2D3" font-size="21">Software Engineering · University of Glasgow</text>
     </g>
+    <rect class="cursor" x="462" y="111" width="16" height="3" rx="1" fill="#5EEAD4" />
   </g>
 </svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="76" viewBox="0 0 360 76" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Desktop utilities</title>
+  <rect width="360" height="76" rx="8" fill="#12243A" />
+  <path d="M0 74H360" stroke="#60A5FA" stroke-width="4" />
+  <circle cx="318" cy="24" r="57" fill="#60A5FA" opacity=".07" />
+  <g stroke="#93C5FD" stroke-width="2" stroke-linejoin="round">
+    <rect x="22" y="20" width="42" height="29" rx="4" />
+    <path d="M36 56H50M43 49V56M59 12L62 20L70 23L62 26L59 34L56 26L48 23L56 20Z" fill="#12243A" />
+  </g>
+  <text x="87" y="43" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1">DESKTOP UTILITIES</text>
+</svg>

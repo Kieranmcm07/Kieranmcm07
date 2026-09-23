@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="76" viewBox="0 0 360 76" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Media tools</title>
+  <rect width="360" height="76" rx="8" fill="#261D3D" />
+  <path d="M0 74H360" stroke="#A78BFA" stroke-width="4" />
+  <circle cx="318" cy="24" r="57" fill="#A78BFA" opacity=".07" />
+  <g stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 17V43M34 33L44 43L54 33M24 44V54Q24 58 28 58H60Q64 58 64 54V44" />
+  </g>
+  <text x="87" y="43" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1">MEDIA TOOLS</text>
+</svg>
