@@ -64,8 +64,8 @@ def collect_stats(username, fetch=fetch_json):
 
 def render_card(stats, theme):
     bg, border, fg, muted, accent = {
-        "dark": ("#0d1117", "#30363d", "#f0f6fc", "#a8b3bf", "#7dd3fc"),
-        "light": ("#ffffff", "#d0d7de", "#1f2328", "#59636e", "#0969da"),
+        "dark": ("#0d1117", "#30363d", "#f0f6fc", "#a8b3bf", "#f08087"),
+        "light": ("#ffffff", "#d0d7de", "#1f2328", "#59636e", "#b42332"),
     }[theme]
     metrics = [("repositories", "Public repos"), ("stars", "Stars earned"),
                ("forks", "Project forks"), ("followers", "Followers")]

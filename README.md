@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Kieran McMonagle — Software Engineering" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header.svg" />
+  <img src="./assets/header.gif" width="100%" alt="Kieran McMonagle | Software Engineering student at the University of Glasgow, Scotland" />
+</picture>
 
 Usually working on a Python project, or figuring out how something works.
 
-<a href="mailto:kieransworkstuff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-4874C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:kieransworkstuff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-B63E48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Kieranmcm07"><img src="https://img.shields.io/badge/GitHub-Kieranmcm07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Based%20in-Scotland-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Scotland" />
+<img src="https://img.shields.io/badge/Based%20in-Scotland-72323C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Scotland" />
+
+[About](#about-me) · [Toolkit](#technical-toolkit) · [Projects](#projects) · [Activity](#contribution-activity)
 
 </div>
 
@@ -14,7 +19,7 @@ Usually working on a Python project, or figuring out how something works.
 
 ## About Me
 
-Hey, I'm Kieran — a **Software Engineering student at the University of Glasgow**, based in Scotland. I've been interested in programming since I was eight, when I started making things in Scratch. In high school I moved on to HTML and CSS, then picked up Python as I wanted to build more practical tools.
+Hey, I'm Kieran, a **Software Engineering student at the University of Glasgow**, based in Scotland. I've been interested in programming since I was eight, when I started making things in Scratch. In high school I moved on to HTML and CSS, then picked up Python as I wanted to build more practical tools.
 
 Most of my projects now involve **Python, desktop apps and automation**. I enjoy having something I can use on my own PC, whether that's a Windows utility, a tool for working with files, or a way to keep an eye on my hardware. Getting something working is satisfying, but I also like coming back to it later and seeing what I can improve.
 
@@ -107,67 +112,62 @@ I'm still learning as I go. At the moment, that means getting more comfortable w
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## Featured Projects
+## Projects
 
-A few things I've been working on. They're all built with Python, but each scratches a different itch.
+A few things I've been building, from desktop apps and Discord tools to a Minecraft planner.
 
-<img src="./assets/project-sweepkin.svg" width="100%" alt="Sweepkin" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Sweepkin
+<a href="https://github.com/Kieranmcm07/Sweepkin"><img src="./assets/project-sweepkin.svg" width="100%" alt="Sweepkin | Windows cleanup" /></a>
 
-Sweepkin is a Windows 11 cleanup app that lets you see what's taking up space before you remove it. It scans specific locations for temporary files, crash dumps, Recycle Bin contents and Windows error reports, then shows the results so you can choose which categories to clean.
+<p>A Windows 11 cleanup app that shows you what it finds before you remove anything. Review file paths and sizes, choose the categories to clean, and look back through previous cleanups.</p>
 
-The desktop interface includes a system overview, searchable results and a history of previous cleanups. It's still an early release, with the focus on making each cleanup easy to review and keeping you in control of what gets deleted.
+<p><sub>Python · Windows 11 · Desktop app</sub></p>
 
-- Review file paths, sizes and timestamps before cleaning.
-- Follow scan and cleanup progress, with the option to cancel.
-- Choose from four colour themes in a Windows 11-style interface.
+<a href="https://github.com/Kieranmcm07/Sweepkin"><b>View repository →</b></a>
 
-[View repository →](https://github.com/Kieranmcm07/Sweepkin)
+</td>
+<td width="50%" valign="top">
 
-<img src="./assets/project-dateforge.svg" width="100%" alt="DateForge" />
+<a href="https://github.com/Kieranmcm07/Discord_Moderation_Bot"><img src="./assets/project-discord.svg" width="100%" alt="Discord Moderation Bot | Server moderation" /></a>
 
-### DateForge
+<p>A Discord bot for moderation, tickets and day-to-day server management. Includes case history, AutoMod, activity tracking and music, with staff controls and setup checks inside Discord.</p>
 
-DateForge is a terminal toolkit for changing the dates attached to files and folders without editing their contents. You can update a single file, work through a whole folder, or apply changes to a batch of paths. It accepts exact timestamps as well as shortcuts such as `now` and `today 18:30`.
+<p><sub>Python · discord.py · SQLite</sub></p>
 
-There's a menu-based launcher for working through the options and direct commands for quicker jobs. Changes are recorded in a local history log, so you can inspect what happened and undo the most recent change.
+<a href="https://github.com/Kieranmcm07/Discord_Moderation_Bot"><b>View repository →</b></a>
 
-- Filter which files are included in a folder update.
-- Save timestamp presets to reuse across different files.
-- Change modified dates, with created-date support on Windows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[View repository →](https://github.com/Kieranmcm07/DateForge)
+<a href="https://github.com/Kieranmcm07/Nexus_Hardware_Monitor"><img src="./assets/project-nexus.svg" width="100%" alt="Nexus | Hardware monitor" /></a>
 
-<img src="./assets/project-nexus.svg" width="100%" alt="Nexus Hardware Monitor" />
+<p>A live view of CPU, memory, storage and network activity on Windows and Linux. Includes sensor readings, history and alerts, plus a compact gaming HUD for keeping an eye on things.</p>
 
-### Nexus Hardware Monitor
+<p><sub>Python · Windows &amp; Linux · Desktop app</sub></p>
 
-Nexus is a desktop dashboard for seeing what your PC is doing in real time. It brings together CPU and memory usage, storage, network activity, running processes and available sensor readings, with graphs that make changes easier to follow. It supports Windows and Linux, with a command-line snapshot option as well.
+<a href="https://github.com/Kieranmcm07/Nexus_Hardware_Monitor"><b>View repository →</b></a>
 
-Beyond the live view, you can set alerts, look back through recorded history and export hardware reports. A compact, always-on-top gaming HUD keeps selected readings visible without leaving the full dashboard open. System readings and history stay on your machine.
+</td>
+<td width="50%" valign="top">
 
-- Explore per-process CPU and memory use.
-- Add temperature, fan and drive-health readings through optional integrations.
-- Run network diagnostics and short CPU, memory and storage checks.
+<a href="https://github.com/Kieranmcm07/Anvil-Studio"><img src="./assets/project-anvil.svg" width="100%" alt="Anvil Studio | Minecraft enchantments" /></a>
 
-[View repository →](https://github.com/Kieranmcm07/Nexus_Hardware_Monitor)
+<p>Plan Minecraft enchantments for Java and Bedrock. Choose your gear and books, then follow a combining order that saves levels, with step-by-step instructions, a visual graph and shareable plans.</p>
 
-<img src="./assets/project-downloader.svg" width="100%" alt="TikTok Downloader" />
+<p><sub>JavaScript · HTML &amp; CSS · Web app</sub></p>
 
-### TikTok Downloader
+<a href="https://github.com/Kieranmcm07/Anvil-Studio"><b>View repository →</b></a> · <a href="https://anvil-studio.pages.dev/">Try it live</a>
 
-TikTok Downloader is a small Python tool for saving supported public TikTok videos and photo slideshows from the command line. You choose an option from the menu, paste a link and let it handle the download. It uses yt-dlp for video downloads and supports both full TikTok URLs and shortened share links.
+</td>
+</tr>
+</table>
 
-You can choose where downloads are saved, while slideshow images go into their own photos folder. Filenames include the creator's username and post ID to help keep downloads organised. It's a straightforward utility for saving content you have permission to download.
-
-- Download videos in the best available quality.
-- Save the individual images from photo slideshows.
-- Change the output folder directly from the menu.
-
-[View repository →](https://github.com/Kieranmcm07/TikTok-Downloader)
-
-[See what else I've been building →](https://github.com/Kieranmcm07?tab=repositories)
+[See all my repositories →](https://github.com/Kieranmcm07?tab=repositories)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -203,6 +203,6 @@ You can choose where downloads are saved, while slideshow images go into their o
 
 <div align="center">
 
-<sub>Thanks for having a look around — feel free to explore the repos or say hello.</sub>
+<sub>Thanks for having a look around. Feel free to explore the repos or say hello.</sub>
 
 </div>

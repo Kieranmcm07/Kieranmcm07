@@ -1,44 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="272" viewBox="0 0 960 272" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Kieran McMonagle</title>
-  <desc id="desc">Software Engineering student at the University of Glasgow. A navy banner with animated circuit signals and a blue-to-mint accent.</desc>
-  <style>
-    .signal { stroke-dasharray: 18 260; animation: signal 7s linear infinite; }
-    .signal-delayed { animation-delay: -3.5s; }
-    .cursor { animation: blink 1.6s steps(2, end) infinite; }
-    @keyframes signal { to { stroke-dashoffset: -278; } }
-    @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .signal, .cursor { animation: none; } }
-  </style>
+  <desc id="desc">Software Engineering student at the University of Glasgow, Scotland. White lettering on charcoal with red diagonal stripes.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="960" y2="200" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111C2E" />
-      <stop offset="1" stop-color="#0D1117" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#60A5FA" />
-      <stop offset="1" stop-color="#5EEAD4" />
-    </linearGradient>
-    <clipPath id="bounds"><rect width="960" height="200" rx="12" /></clipPath>
+    <clipPath id="bounds"><rect width="960" height="272" rx="12" /></clipPath>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#63313A" />
+    </pattern>
   </defs>
   <g clip-path="url(#bounds)">
-    <rect width="960" height="200" fill="url(#background)" />
-    <rect width="960" height="3" fill="url(#accent)" />
-    <circle cx="910" cy="100" r="145" stroke="#23344A" />
-    <circle cx="910" cy="100" r="110" stroke="#23344A" />
-    <g stroke="#263D55" stroke-width="2">
-      <path d="M710 35H770L800 65H950" />
-      <path d="M710 169H778L808 139H950" />
+    <rect width="960" height="272" fill="#131315" />
+    <path d="M740 0H960V272H650Z" fill="#1D1418" />
+    <rect x="712" width="248" height="272" fill="url(#dots)" opacity=".5" />
+    <g id="ribbons">
+      <path d="M786 -80H844L714 352H656Z" fill="#391B23" />
+      <path d="M870 -80H916L786 352H740Z" fill="#E5484D" />
+      <path d="M944 -80H962L832 352H814Z" fill="#8E303B" />
+      <path d="M1002 -80H1004L874 352H872Z" fill="#EF8D91" />
     </g>
-    <g stroke="#5EEAD4" stroke-width="2">
-      <path class="signal" d="M710 35H770L800 65H950" />
-      <path class="signal signal-delayed" d="M710 169H778L808 139H950" />
-    </g>
-    <path d="M817 78L795 100L817 122M884 78L906 100L884 122M863 67L838 133" stroke="#5EEAD4" stroke-opacity=".6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="40" y="37" width="26" height="3" rx="1.5" fill="#E5484D" />
+    <text x="79" y="43" fill="#E9A0A3" font-family="Consolas, monospace" font-size="14" letter-spacing="1.5">KIERANMCM07</text>
     <g font-family="Segoe UI, Arial, sans-serif">
-      <text x="40" y="52" fill="#7DD3FC" font-size="16" font-weight="600" letter-spacing="2">HI, I'M KIERAN</text>
-      <text x="38" y="111" fill="#F0F6FC" font-size="48" font-weight="700" letter-spacing="-1">Kieran McMonagle</text>
-      <text x="40" y="153" fill="#B4C2D3" font-size="21">Software Engineering · University of Glasgow</text>
+      <text x="37" y="121" fill="#FAF7F7" font-size="56" font-weight="700" letter-spacing="-1.8">Kieran McMonagle</text>
+      <text x="40" y="165" fill="#EEE4E5" font-size="23">Software Engineering student</text>
+      <text x="40" y="197" fill="#B3A5A9" font-size="19">University of Glasgow · Scotland</text>
     </g>
-    <rect class="cursor" x="462" y="111" width="16" height="3" rx="1" fill="#5EEAD4" />
+    <path d="M40 238H612" stroke="#3A262C" stroke-width="2" />
+    <path id="accent" d="M40 238H120" stroke="#E5484D" stroke-width="2" />
   </g>
+  <rect x=".5" y=".5" width="959" height="271" rx="11.5" stroke="#39252B" />
 </svg>

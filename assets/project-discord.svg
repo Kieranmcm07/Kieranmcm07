@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="112" viewBox="0 0 440 112" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Discord Moderation Bot</title>
+  <desc id="desc">Server moderation and community tools</desc>
+  <rect x=".5" y=".5" width="439" height="111" rx="9" fill="#181416" stroke="#42262D" />
+  <path d="M24 90H416" stroke="#42262D" />
+  <path d="M24 90H76" stroke="#E5484D" stroke-width="2" />
+  <text x="24" y="28" fill="#E9A0A3" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.6">SERVER MODERATION</text>
+  <text x="23" y="68" fill="#FAF7F7" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-.5">Discord Moderation Bot</text>
+  <g transform="translate(368 28)" stroke="#E36C75" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 2L44 10V23C44 34 34 42 24 47C14 42 4 34 4 23V10Z"/><path d="M14 24L21 31L35 17"/></g>
+</svg>

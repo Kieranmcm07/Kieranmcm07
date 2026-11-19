@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="112" viewBox="0 0 440 112" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Anvil Studio</title>
+  <desc id="desc">Minecraft enchantment planner</desc>
+  <rect x=".5" y=".5" width="439" height="111" rx="9" fill="#181416" stroke="#42262D" />
+  <path d="M24 90H416" stroke="#42262D" />
+  <path d="M24 90H76" stroke="#E5484D" stroke-width="2" />
+  <text x="24" y="28" fill="#E9A0A3" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.6">MINECRAFT ENCHANTMENTS</text>
+  <text x="23" y="68" fill="#FAF7F7" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="-.5">Anvil Studio</text>
+  <g transform="translate(368 28)" stroke="#E36C75" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8H45V18H36L29 26V34L39 42H9L19 34V26L8 20L3 14Z"/><path d="M19 26H29M14 8V18H36"/></g>
+</svg>
